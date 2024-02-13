@@ -1,0 +1,3 @@
+﻿  BlackJack.cpp
+C:\Users\hecto\source\repos\BlackJack\BlackJack\BlackJack.cpp(9,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BlackJack.vcxproj -> C:\Users\hecto\source\repos\BlackJack\x64\Debug\BlackJack.exe
